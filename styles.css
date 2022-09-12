@@ -37,7 +37,10 @@ h1,h2,h3 {
 #intro {
     
     color: var(--white);
-    margin: 6rem auto 10rem 10rem;
+    max-width: 1200px;
+    margin: 6rem auto 10rem auto;
+    padding-left: 1rem;
+    
 }
 
 
